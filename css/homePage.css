@@ -112,14 +112,14 @@ hr{
     font-size: 25px;
 }
 
-#dg{
+#works{
     background: #e0e0e0;
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center;
 }
 
-#dg h4{
+#works h4{
     font-size: 40px;
 }
 
@@ -154,7 +154,7 @@ hr{
 }
 
 
-#lg{
+#partners{
     background: #ebebeb;
     padding-top: 70px;
     padding-bottom: 70px;
@@ -162,35 +162,35 @@ hr{
 }
 
 
-#lg h4{
+#partners h4{
     font-size: 45px;
     padding-bottom: 30px;
 }
 
-#lg i{
+#partners i{
     font-size: 100px;
     color: #bdbdbd;
     padding: 50px;
 }
 
-#lg i:hover{
+#partners i:hover{
     color: #333;
     -webkit-transition: 1s;
             transition: 1s;
 }
 
-#r{
+#about{
     background: #ff7878;
     padding-top: 70px;
     padding-bottom: 70px;
 }
 
-#r h4{
+#about h4{
     color: white;
     font-size: 45px;
 }
 
-#r p{
+#about p{
     color: white;
 }
 
